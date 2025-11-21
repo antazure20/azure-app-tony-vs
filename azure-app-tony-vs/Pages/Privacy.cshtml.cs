@@ -14,6 +14,7 @@ namespace azure_app_tony_vs.Pages
 
         public void OnGet()
         {
+           // throw new Exception ("This is a test exception for Application Insights.");
         }
     }
 

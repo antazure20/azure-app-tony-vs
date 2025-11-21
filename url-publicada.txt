@@ -1,2 +1,6 @@
 https://az-webapp-tony-vs2022-bnc8hwfdcwe8cgd5.spaincentral-01.azurewebsites.net/
 azure-app-tony-vs-e4b2f8g7fwc4hddv.spaincentral-01.azurewebsites.net
+
+azure-app-tony-vs
+-----------------
+application insights instrumentation key: 95c346cf-c1f9-4431-8c72-d7ba6de122f3

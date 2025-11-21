@@ -6,6 +6,9 @@ namespace azure_app_tony_vs
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            // Añade el uso de application insights
+            builder.Services.AddApplicationInsightsTelemetry();
+
             // Add services to the container.
             builder.Services.AddRazorPages();
 
